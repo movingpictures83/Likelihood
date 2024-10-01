@@ -1,0 +1,2 @@
+Prefix plugins/Likelihood/example/
+Plugin Likelihood inputfile PRIOR.rds outputfile LIKELIHOOD.rds
